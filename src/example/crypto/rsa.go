@@ -20,4 +20,3 @@ func main(){
 	}
 	printPrivateKey(privateKey)
 }
-gi
